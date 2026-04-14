@@ -3,8 +3,11 @@
 ### *(Free Workshop | Lead Generation & Engagement Focus)*
 
 **Prepared By** InnovateWithAjay
+
 **Mode:** Online (Zoom / Google Meet)
+
 **Target Audience:** Students 
+
 **Target Outcome:** 200+ Registrations | 100+ Attendees
 
 ---
