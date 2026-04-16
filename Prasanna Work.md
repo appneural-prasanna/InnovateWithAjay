@@ -1,3 +1,21 @@
+# 📌 My Responsibilities as an Operations Manager
+
+* Plan and organize projects clearly
+* Break work into tasks and assign them to the team
+* Set deadlines and ensure work is completed on time
+* Track daily progress and maintain task records
+* Coordinate between different teams for smooth workflow
+* Create and maintain documents (project plans, task trackers, SOPs, reports)
+* Monitor team performance and basic KPIs
+* Identify issues and resolve them quickly
+* Improve processes to increase efficiency
+* Learn and use tools for documentation, tracking, and automation
+* Provide regular updates and reports to management
+
+---
+
+###  Where I Am Currently Lacking (Documentation & Operations)
+
 ## 🔹 1. Project Planning Documentation
 
 * I am currently facing difficulty in **structuring project plans properly**
