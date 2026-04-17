@@ -1,6 +1,6 @@
 # 📌 My Plan as an Operations Manager
 
-## 🔹 Step 1: Understand Work (Week 1–2)
+## 🔹 Step 1: Understand Work 
 
 * Understand how the company works
 * Talk to all teams and know their tasks
@@ -9,7 +9,7 @@
 
 ---
 
-## 🔹 Step 2: Plan & Assign Work (Week 3–4)
+## 🔹 Step 2: Plan & Assign Work
 
 * Plan projects before starting
 * Break work into small tasks
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔹 Step 3: Track & Document (Month 2)
+## 🔹 Step 3: Track & Document
 
 * Track daily work and progress
 * Maintain task tracker and reports
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔹 Step 4: Improve & Optimize (Month 3)
+## 🔹 Step 4: Improve & Optimize
 
 * Identify delays and issues
 * Improve processes step by step
@@ -36,15 +36,7 @@
 
 ---
 
-## 🛠 Tools I Will Learn
 
-* Microsoft Excel / Google Sheets
-* Microsoft Word
-* Trello
-* Notion
-* Zapier
-
----
 
 👉 **In one line:**
 **First understand → then plan → assign → track → improve** 👍
